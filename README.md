@@ -1,4 +1,4 @@
-# lora-mqtt for using Umdk -f and bme280
+# lora-mqtt for using Umdk -Rf and bme280
 Translator between binary LoRa application layer and MQTT broker
 
 *lora-mqtt* is used to provide an interface between LoRa star network built on Unwired Devices's modules and network layer and high-level protocols and applications.
